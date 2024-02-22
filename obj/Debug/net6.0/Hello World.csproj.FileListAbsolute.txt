@@ -1,0 +1,14 @@
+C:\Users\JustinPalmer\source\repos\Hello World\obj\Debug\net6.0\Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JustinPalmer\source\repos\Hello World\obj\Debug\net6.0\Hello World.AssemblyInfoInputs.cache
+C:\Users\JustinPalmer\source\repos\Hello World\obj\Debug\net6.0\Hello World.AssemblyInfo.cs
+C:\Users\JustinPalmer\source\repos\Hello World\obj\Debug\net6.0\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\JustinPalmer\source\repos\Hello world\bin\Debug\net6.0\Hello world.exe
+C:\Users\JustinPalmer\source\repos\Hello world\bin\Debug\net6.0\Hello world.deps.json
+C:\Users\JustinPalmer\source\repos\Hello world\bin\Debug\net6.0\Hello world.runtimeconfig.json
+C:\Users\JustinPalmer\source\repos\Hello world\bin\Debug\net6.0\Hello world.dll
+C:\Users\JustinPalmer\source\repos\Hello world\bin\Debug\net6.0\Hello world.pdb
+C:\Users\JustinPalmer\source\repos\Hello world\obj\Debug\net6.0\Hello world.dll
+C:\Users\JustinPalmer\source\repos\Hello world\obj\Debug\net6.0\refint\Hello world.dll
+C:\Users\JustinPalmer\source\repos\Hello world\obj\Debug\net6.0\Hello world.pdb
+C:\Users\JustinPalmer\source\repos\Hello world\obj\Debug\net6.0\Hello world.genruntimeconfig.cache
+C:\Users\JustinPalmer\source\repos\Hello world\obj\Debug\net6.0\ref\Hello world.dll
